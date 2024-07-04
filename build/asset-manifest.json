@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.343382c8.css",
+    "main.js": "/static/js/main.772d669f.js",
+    "static/js/453.d73b0aaa.chunk.js": "/static/js/453.d73b0aaa.chunk.js",
+    "static/media/word press.png": "/static/media/word press.420fc11bd2ed164b536b.png",
+    "static/media/php.png": "/static/media/php.29dcb88dd2078b056912.png",
+    "static/media/jpg": "/static/media/d09289c694b09747fb10ee570d099d81.25854b149ae60f42890c.jpg",
+    "static/media/mysql.png": "/static/media/mysql.96a52ae1582d68802171.png",
+    "static/media/React_logo_PNG_(16).png": "/static/media/React_logo_PNG_(16).69f6b9a9a2e3d1ebbf7c.png",
+    "static/media/css.png": "/static/media/css.d1ed76c9be777f149e99.png",
+    "static/media/html.png": "/static/media/html.01f00c97b2a742a9dff5.png",
+    "static/media/material.png": "/static/media/material.46039071f73246bea5f3.png",
+    "static/media/png": "/static/media/bed30ddfa5d434e827c775ac9a3b0d38.3f03fe7c2e6055886bec.png",
+    "static/media/filmora_logo.png": "/static/media/filmora_logo.ccff2640acbf0c1ceb1c.png",
+    "static/media/github.png": "/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/photoshop.jpg": "/static/media/photoshop.f37ccbd33a8c65976e80.jpg",
+    "static/media/behance.png": "/static/media/behance.86752f1feafcac27cf38.png",
+    "static/media/figma.png": "/static/media/figma.91b6efb27fe6c9d4fc8e.png",
+    "static/media/javajscript.jpg": "/static/media/javajscript.e5ce2eaff7c6432ee7c7.jpg",
+    "static/media/adobe_premiere_pro-logo-brandlogos.net.png": "/static/media/adobe_premiere_pro-logo-brandlogos.net.f874cd1ce990018b7514.png",
+    "index.html": "/index.html",
+    "main.343382c8.css.map": "/static/css/main.343382c8.css.map",
+    "main.772d669f.js.map": "/static/js/main.772d669f.js.map",
+    "453.d73b0aaa.chunk.js.map": "/static/js/453.d73b0aaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.343382c8.css",
+    "static/js/main.772d669f.js"
+  ]
+}
